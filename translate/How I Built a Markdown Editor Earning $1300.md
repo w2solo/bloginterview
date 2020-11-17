@@ -6,7 +6,7 @@
 
 译者 [litang0908](https://github.com/litang0908)
 
-此翻译文章，经过原作者授权许可，将作为 [w2solo.com](http://www.w2solo.com) 社区的内容，未经许可，禁止转载。
+此翻译文章，经过原作者授权许可，将作为 [w2solo.com](http://beta.w2solo.com) 社区的内容，未经许可，禁止转载。
 
 #### 作者简介
 Takuya Matsuyama 是来自日本的一位独立开发者，做独立开发者的时间已经有3年半，他的产品是 [Inkdrop](https://www.inkdrop.app/)，一款跨平台的 Markdown 编辑器，自2016年发布后，获得很多用户的好评。Takuya Matsuyam 除了作为开发者，他也承担着运营、营收、设计等事项，他的博客除了技术分享，也有很多对独立开发的思考，非常值得学习。
