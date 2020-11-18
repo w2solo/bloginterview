@@ -5,7 +5,7 @@
 2. 翻译后的中文文章，未经授权，禁止转载
 
 
-##博客原作者
+## 博客原作者
 
 [Takuya Matsuyama](https://medium.com/@inkdrop)
 
