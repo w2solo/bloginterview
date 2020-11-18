@@ -16,7 +16,7 @@ Takuya Matsuyama 是来自日本的一位独立开发者，做独立开发者的
 
 在这里，我将分享我是如何独自创建一个跨平台应用-Inkdrop，并且获得了 1300刀/月 收入，我是在东京做独立开发者时开发的这款App，期间花了大量时间完成它，最近也写过另外一篇文章 [How to Price Yourself as a Freelance Developer](https://blog.inkdrop.info/how-to-price-yourself-as-a-freelance-developer-3453dfd59d91) 。
 
-![Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app/](https://s3.ax1x.com/2020/11/18/DeWFJJ.jpg)](https://imgchr.com/i/DeWFJJ)
+![Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app/](https://s3.ax1x.com/2020/11/18/DeWFJJ.jpg)
 > Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app
 
 
