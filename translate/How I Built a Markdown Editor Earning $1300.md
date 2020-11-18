@@ -16,14 +16,14 @@ Takuya Matsuyama 是来自日本的一位独立开发者，做独立开发者的
 
 在这里，我将分享我是如何独自创建一个跨平台应用-Inkdrop，并且获得了 1300刀/月 收入，我是在东京做独立开发者时开发的这款App，期间花了大量时间完成它，最近也写过另外一篇文章 [How to Price Yourself as a Freelance Developer](https://blog.inkdrop.info/how-to-price-yourself-as-a-freelance-developer-3453dfd59d91) 。
 
-![Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app/](http://res.qianjiapp.com/inkdrop/inkdrop1.jpeg)
+![Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app/](https://s3.ax1x.com/2020/11/18/DeWFJJ.jpg)](https://imgchr.com/i/DeWFJJ)
 > Inkdrop — Jot down your daily hacking endeavors. https://inkdrop.app
 
 
 
 我去年（2016）开始开发Inkdrop，截止今年7月每月收入是360美元，如果能够保持持续增长的话，明年我就可以结束我的自由职业生涯。
 
-![现在inkdrop每个月的收入是 1361 美元（1美元=110日元）](http://res.qianjiapp.com/inkdrop/inkdrop2.jpeg)
+![现在inkdrop每个月的收入是 1361 美元（1美元=110日元）](https://s3.ax1x.com/2020/11/18/DeWCoF.jpg)
 > 现在inkdrop每个月的收入是 1361 美元（1美元=110日元）
 
 
@@ -68,7 +68,7 @@ Takuya Matsuyama 是来自日本的一位独立开发者，做独立开发者的
 
 因为是第一次使用 Electron 和 ReactJS 开发，所以我是通过 fork [Kitematic](https://kitematic.com/) 开始开发的，这是一个开源的 Docker 容器管理，在实践中已经解决了很多问题。
 
-![http://res.qianjiapp.com/inkdrop/inkdrop3.png](http://res.qianjiapp.com/inkdrop/inkdrop3.png)
+![https://s3.ax1x.com/2020/11/18/DeWZsx.png](https://s3.ax1x.com/2020/11/18/DeWZsx.png)
 
 
 ### 在 Beta 阶段获得忠实用户
@@ -82,7 +82,7 @@ Takuya Matsuyama 是来自日本的一位独立开发者，做独立开发者的
 
 当封闭测试发布后，我在 [Hacker News](https://news.ycombinator.com/item?id=11849127) 发布了一篇文章，幸运的是，这篇文章排在了顶部，而且为我带来了超过1000名测试用户。 这些测试用户为我提供了很多建议和Bug，他们帮助我把产品完善，直到可以发布正式版本。
 
-![http://res.qianjiapp.com/inkdrop/inkdrop4.png](http://res.qianjiapp.com/inkdrop/inkdrop4.png)
+![https://s3.ax1x.com/2020/11/18/DeWii4.png](https://s3.ax1x.com/2020/11/18/DeWii4.png)
 > Hacker News 带来的很多流量
 
 在封闭测试阶段，我时常去查看使用数据，以便去发现是否有重度用户每天使用，因为这能表明我产品能否成功。我使用的数据分析工具是 [Mixpanel](https://mixpanel.com/) 。假如没有看到重度用户，则意味着 App 不够好。
@@ -127,7 +127,7 @@ Inkdrop 的宣传视频，可以在这里查看 [https://vimeo.com/186246591](ht
 
 我使用 After Effects 来制作带动态过渡效果的 Demo ，但是 After Effects 处理非常耗时，所以我使用 iMove 来合成视频片段。
 
-![http://res.qianjiapp.com/inkdrop/inkdrop5.png](http://res.qianjiapp.com/inkdrop/inkdrop5.png)
+![https://s3.ax1x.com/2020/11/18/DeW9dU.png](https://s3.ax1x.com/2020/11/18/DeW9dU.png)
 >Inkdrop的落地页
 
 
@@ -146,14 +146,14 @@ Inkdrop 的宣传视频，可以在这里查看 [https://vimeo.com/186246591](ht
 
 3个月前，我写了一篇文章，用日语描述了构建这个应用程序的经历，这篇文章为我带来很多的注册用户，他们中一部分也转化为付费用户。
 
-![http://res.qianjiapp.com/inkdrop/inkdrop6.png](http://res.qianjiapp.com/inkdrop/inkdrop6.png)
+![https://s3.ax1x.com/2020/11/18/DeWVQ1.png](https://s3.ax1x.com/2020/11/18/DeWVQ1.png)
 
-![http://res.qianjiapp.com/inkdrop/inkdrop7.png](http://res.qianjiapp.com/inkdrop/inkdrop7.png)
+![https://s3.ax1x.com/2020/11/18/DeWAzR.png](https://s3.ax1x.com/2020/11/18/DeWAzR.png)
 
 
 下面是这篇文章的英文版，同样给网站带来很多用户：
 
-![http://res.qianjiapp.com/inkdrop/inkdrop8.png](http://res.qianjiapp.com/inkdrop/inkdrop8.png)
+![https://s3.ax1x.com/2020/11/18/DeWkW9.png](https://s3.ax1x.com/2020/11/18/DeWkW9.png)
 
 
 ### 持续提高质量
