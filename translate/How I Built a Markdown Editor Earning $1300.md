@@ -4,7 +4,7 @@
 
 原文 [How I Built a Markdown Editor Earning $1300/mo Profit — Inkdrop](https://blog.inkdrop.info/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-ddf6ad702c42)
 
-译者 [litang0908](https://github.com/litang0908)
+译者 [litang0908](https://beta.w2solo.com/litang0908)
 
 此翻译文章，经过原作者授权许可，将作为 [w2solo.com](http://beta.w2solo.com) 社区的内容，未经许可，禁止转载。
 
